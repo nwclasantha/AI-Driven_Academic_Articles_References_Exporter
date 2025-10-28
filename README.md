@@ -1,5 +1,7 @@
 # IEEE Reference Extractor — Step-by-Step Guide
 
+<img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/d04c1e9a-fc2a-4d5d-9464-ce2529b6f762" />
+
 ## 1) What this app does (in one minute)
 
 The IEEE Reference Extractor takes academic PDFs, finds the **References** section, parses each entry into structured data (authors, title, year, venue, pages, DOI/URL, etc.), optionally **enriches** it via CrossRef/DOI APIs, and exports the cleaned results to **BibTeX, RIS, JSON, or CSV**. It comes with a modern **PySide6 GUI**, background worker threads with progress signals, and a rotating **enterprise logging** system. 
