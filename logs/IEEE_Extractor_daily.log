@@ -1,0 +1,12 @@
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | _setup_logging:131 | Logging system initialized - logs
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | set_level:163 | Log level set to INFO
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:54 | ============================================================
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:55 | IEEE Reference Extractor - Enterprise Edition v3.0
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:56 | ============================================================
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:57 | Configuration loaded from: config\settings.json
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:58 | Database path: data/references.db
+2025-10-28 12:14:52 | [32mINFO[0m | IEEE_Extractor | setup_application:59 | Log directory: logs
+2025-10-28 12:14:52 | [33mWARNING[0m | IEEE_Extractor | setup_application:64 | Configuration validation errors:
+2025-10-28 12:14:52 | [33mWARNING[0m | IEEE_Extractor | setup_application:66 |   - Input directory does not exist: C:\Users\nwcla\Desktop\m
+2025-10-28 12:14:53 | [32mINFO[0m | IEEE_Extractor | main:92 | Applied theme: dark_teal
+2025-10-28 12:14:55 | [32mINFO[0m | IEEE_Extractor | main:100 | Application started successfully
